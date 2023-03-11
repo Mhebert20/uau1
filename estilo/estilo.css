@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans";
+}
+
+/**Boot CSS**/
+html,body{
+    overflow-x: hidden;
+    height: 100%;
+}
+header{
+    padding: 20px 0;
+    background: #fffb00;
+}
+.clear{
+    clear: both;
+}
+img{
+    width: 100%;
+    max-width: 250px;
+    margin: 0 20%;
+}
